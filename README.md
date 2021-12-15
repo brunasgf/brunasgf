@@ -20,7 +20,12 @@ My name is Bruna and I'm a backend developer from Brazil. 👩‍💻 Currently,
 </p>
  
 <p align='center'>
-
+  <a href="mailto:brunasgf@gmail.com">
+    <img src="https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunasgf@gmail.com" />
+  </a>&nbsp;&nbsp; 
+</p>
+ 
+<p align='center'>
   <a href="https://www.linkedin.com/in/brunasgf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp; 
