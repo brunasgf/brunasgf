@@ -20,7 +20,11 @@ My name is Bruna and I'm a backend developer from Brazil. Actually
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>  
 
 
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf)                     ![image](https://github-readme-stats.vercel.app/api?username=brunasgf)
+<p align='right'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf" width="350"></a>
+</p>                  
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunasgf" width="350"></a>
+</p>   
 
 
