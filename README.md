@@ -16,12 +16,12 @@ My name is Bruna and I'm a backend developer from Brazil. 👩‍💻 Currently,
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:brunasgf@gmail.com'>brunasgf@gmail.com</a>
+  📫 How to reach me: 
 </p>
  
 <p align='center'>
   <a href="mailto:brunasgf@gmail.com">
-    <img src="https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunasgf@gmail.com" />
+    <img src="https://img.shields.io/badge/-brunasgf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunasgf@gmail.com" />
   </a>&nbsp;&nbsp; 
 </p>
  
