@@ -13,9 +13,9 @@ My name is Bruna and I'm a backend developer from Brazil. Actually
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>  
 
 <p align='center'>
-  <p>You can contact me here :) <\p>
+  📫 How to reach me: <a href='mailto:brunasgf@gmail.com'>brunasgf@gmail.com</a>
 </p>
-    
+ 
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/brunasgf/">
