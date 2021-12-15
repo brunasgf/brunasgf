@@ -14,7 +14,7 @@ My name is Bruna and I'm a backend developer from Brazil. Actually
 
 
 <p align='center'>
-  You can contact me here :) <\br>
+  <p>You can contact me here :) <\p><\br>
   <a href="https://www.linkedin.com/in/brunasgf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp; 
