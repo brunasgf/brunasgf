@@ -18,6 +18,6 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf) ![image](https://github-readme-stats.vercel.app/api?username=brunasgf)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf)                     ![image](https://github-readme-stats.vercel.app/api?username=brunasgf)
 
 
