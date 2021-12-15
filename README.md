@@ -30,11 +30,12 @@ My name is Bruna and I'm a backend developer from Brazil. 👩‍💻 Currently,
 
 
 
-<p align='center'>
+<p align='right'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf" width="350"></a>
 </p>                  
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunasgf" width="350"></a>
 </p>   
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
