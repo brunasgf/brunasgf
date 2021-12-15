@@ -20,7 +20,7 @@ My name is Bruna and I'm a backend developer from Brazil. Currently, I have been
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunasgf&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf&hide=TeX&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?brunasgf&layout=compact&langs_count=7&theme=dracula) 
 
 ## 🤭 Daily Meme
 
