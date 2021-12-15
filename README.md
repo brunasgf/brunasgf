@@ -34,5 +34,7 @@ My name is Bruna and I'm a backend developer from Brazil. 👩‍💻 Currently,
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=brunasgf&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf&hide=TeX&layout=compact) 
 
+## 🤭
+
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300">
 
