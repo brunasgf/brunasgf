@@ -12,17 +12,8 @@ My name is Bruna and I'm a backend developer from Brazil. Currently, I have been
 
 ## 📫 How to reach me: 
  
-<p align='center'>
-  <a href="mailto:brunasgf@gmail.com">
-    <img src="https://img.shields.io/badge/-brunasgf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunasgf@gmail.com" />
-  </a>&nbsp;&nbsp; 
-</p>
- 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/brunasgf/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp; 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-brunasgf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunasgf)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![Gmail Badge](https://img.shields.io/badge/-brunasgf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunasgf@gmail.com)](mailto:brunasgf@gmail.com)
 
 
 ## ⚡ GitHub Stats
