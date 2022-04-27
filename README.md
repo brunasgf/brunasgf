@@ -22,7 +22,4 @@ My name is Bruna and I'm a backend developer from Brazil. Currently, I have been
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasgf&layout=compact&langs_count=7&theme=radical) 
 
-## 🤭 Daily Meme
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="250">
 
