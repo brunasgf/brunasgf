@@ -1,6 +1,6 @@
 # Hi!😸
 
-My name is Bruna and I'm a backend developer from Brazil. Currently, I have been very interested in studying about data engineering and data analysis.
+My name is Bruna and I'm a data engineer from Brazil. Currently, I have been very interested in studying about data engineering and data analysis.
 
 
 ## 👩‍💻 Technologies and tools that I work or am studying
